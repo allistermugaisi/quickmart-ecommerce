@@ -14,7 +14,7 @@
     "dev": "concurrently \"npm run backend\" \"npm run start --prefix client\"",
     "full-install": "npm install && npm install --prefix client"
   },
-  "author": "John ahn",
+  "author": "Allister and Adrian",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
