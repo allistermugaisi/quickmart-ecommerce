@@ -1,5 +1,7 @@
 # QuickMart Ecommerce
 
+![QuickmartE-Commerce ...](https://pbs.twimg.com/media/EKiIF0WX0AAdfI2.jpg)
+
 Project developed by Allister and Adrian  
 Thank you for Having interest in this repository !
 
